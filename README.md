@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushb2002
 - 👀 I have a strong hand in Machine Learning and Web Development.
 - 🌱 I am skilled in Python, C and C++.
-- 💞️ I’m looking to collaborate on projects related to web applications (Python or PHP backend) or classification/ regression problems in jupyter notebooks.
+- 💞️ I’m looking to collaborate on projects related to web applications (Python or PHP backend) or classification/ regression problems or image classification using Tensorflow and Tensorflow Hub in Jupyter Notebooks.
 - 📫 Follow me on LinkedIn (https://www.linkedin.com/in/ayush-bansal-560597195/) or Instagram (@ayushhhbansal) or mail me @ ayushbofficial@gmail.com
 
 <!---
