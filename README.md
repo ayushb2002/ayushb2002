@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/ayushb6732/" target="_blank">
     <img src="https://img.shields.io/badge/-Leetcode-green?style=for-the-badge&logo=leetcode" alt="Leetcode Badge"/>
   </a>
-  <a href="https://sites.google.com/view/ayushbansal/home" target="_blank">
+  <a href="https://ayushb2002.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=google" alt="Portfolio Badge"/>
   </a>
 </div>
