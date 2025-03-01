@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Ayush Bansal <br>
-🧑 Currently a 4th year CSE student <br>
-🏫 Pursuing a degree in BTECH from Jaypee Institute of Information Technology, Noida-62. <br>
+🏫 Graduated from Jaypee Institute of Information Technology, Noida-62 with a degree in B.Tech. CSE. <br>
 👀 I am primarily a python developer. <br>
 🌱 I am also skilled in C and C++. <br>
 💞️ My primary domains are `Machine Learning` and `Full stack web development`. <br>
