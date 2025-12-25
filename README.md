@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Ayush Bansal <br>
-🏫 Graduated from Jaypee Institute of Information Technology, Noida-62 with a degree in B.Tech. CSE. <br>
-👀 I am primarily a python developer. <br>
-🌱 I am also skilled in C and C++. <br>
-💞️ My primary domains are `Machine Learning` and `Full stack web development`. <br>
-⭐ My secondary domains are `Blockchain` and `App development`. <br>
+🏫 2024 graduate from Jaypee Institute of Information Technology, Noida-62 with a degree in B.Tech. CSE. <br>
+👀 I am primarily a data analyst and python developer. <br>
+🌱 I also code in C++. <br>
+💞️ My responsibilities at my job are `Data Modelling`, `Data Warehousing`, `ETL`, `Data Visualization` and `Data Analysis and inferencing`.<br>
+⭐ Some other responsibilities are `Python Automation` and `Fraud / Risk Analysis`.<br>
 🔥 Want to collaborate with me for a project. Drop a message here - <a href="mailto:ayushb6732@gmail.com">`ayushb6732@gmail.com`</a>
 
 ## 🌐 Socials:
