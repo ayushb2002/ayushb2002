@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Ayush Bansal <br>
-🏫 2024 graduate from Jaypee Institute of Information Technology, Noida-62 with a degree in B.Tech. CSE. <br>
+🏫 I'm 2024 graduate from Jaypee Institute of Information Technology, Noida-62 with a degree in B.Tech. CSE. <br>
 👀 I am primarily a data analyst and python developer. <br>
 🌱 I also code in C++. <br>
 💞️ My responsibilities at my job are `Data Modelling`, `Data Warehousing`, `ETL`, `Data Visualization` and `Data Analysis and inferencing`.<br>
